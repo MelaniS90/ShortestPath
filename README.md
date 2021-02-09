@@ -13,8 +13,8 @@ Simple scripts for finding minimum spanning tree and shortest path. This project
 First write your confguration (nodes, links and path) to file: data.txt
 
 To run this project run command:
-'''
+```
 $ python3 main.py
-'''
+```
 
 
